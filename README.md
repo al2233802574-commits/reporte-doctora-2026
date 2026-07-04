@@ -1,5 +1,5 @@
 # Reporte anual de investigación doctoral
 
-Sitio estático para publicación en GitHub Pages.
+Sitio estático actualizado para GitHub Pages.
 
 Archivo principal: `index.html`
